@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hi 👋, I'm Vijay Kumar Chourasia and I'm a BCA student from India.<br>🌱 Currently learning Full Stack Web Development and Core Java.<br>💻 I have learned HTML, CSS, JavaScript, jQuery and Bootstrap.<br>🚀 I enjoy building responsive and interactive web applications.<br>📚 Currently improving my Java programming and problem-solving skills.<br>⚡ I love turning ideas into websites and I'm learning something new every day.<br>
+   Hi 👋, I'm Vijay Kumar Chourasia and I'm a BCA student from India.<br>🌱 Currently learning Full Stack Web Development and Core Java.<br>💻 I have learned HTML, CSS, JavaScript, jQuery and Bootstrap.<br>🚀 I enjoy building responsive and interactive web applications.<br>📚 Currently improving my Java programming and problem-solving skills.<br>⚡ I love turning ideas into websites and I'm learning something new every day.<br>
 
 
 ## 🌐 Socials:
